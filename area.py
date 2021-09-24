@@ -7,4 +7,4 @@ print("area of rectangle = "+str(rarea))
 b=int(input("enter the height of triangle ".title()))
 h=int(input("enter the breadth of triangle".title()))
 tarea=(1/2)*b*h
-print("area of triangle".title()+str(tarea))
+print("area of of triangle".title()+str(tarea))
